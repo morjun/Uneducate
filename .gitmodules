@@ -1,0 +1,3 @@
+[submodule "SafetySkipper-KAIST"]
+	path = SafetySkipper-KAIST
+	url = https://github.com/morjun/SafetySkipper-KAIST.git
