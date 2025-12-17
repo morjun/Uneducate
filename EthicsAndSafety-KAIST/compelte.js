@@ -1,2 +1,4 @@
 // 재생 버튼 누르고 나서 호출
-JITAPP.lecture.cyber.check_end();
+JITAPP.lecture.cyber.check_end(); // Cyber Ethics
+JITAPP.lecture.technology.check_end(); // Research Technology Security
+JITAPP.lecture.labsafty.check_end(); // Lab Safety
